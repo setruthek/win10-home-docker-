@@ -10,6 +10,6 @@ win10home 天池docker练习场
 * 根据官网中的说明基于wls2的docker无法直接在advanced中设置镜像的存储位置，因此需要在命令行中打包并删除c盘镜像，然后在d盘重新创建，具体实现命令可参考https://blog.csdn.net/shanghaibao123/article/details/112968528
 * 在docker engine中的json编辑框内可以输入镜像加速器地址
 # 三、开通容器镜像服务
-根据官方教程一步一步执行即可
+根据官方教程一步一步执行即可 https://tianchi.aliyun.com/forum/postDetail?&postId=165595
 # 四、提交结果截图
 ![](http://www.baidu.com/img/bdlogo.gif)
