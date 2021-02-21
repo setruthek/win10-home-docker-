@@ -5,4 +5,6 @@ win10home 天池docker练习场
 * 1、Hyper-V安装
 * 2、本地安装WLS2环境
 * 3、安装docker desktop for windows
->>具体实现步骤可以参照https://zhuanlan.zhihu.com/p/351208803,
+>>具体实现步骤可以参照 https://zhuanlan.zhihu.com/p/351208803 ,严格按照步骤可以在win10上顺利安装docker desktop。
+# 二、配置Docker Desktop
+
