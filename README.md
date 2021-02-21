@@ -12,4 +12,4 @@ win10home 天池docker练习场
 # 三、开通容器镜像服务
 根据官方教程一步一步执行即可 https://tianchi.aliyun.com/forum/postDetail?&postId=165595
 # 四、提交结果截图
-![](http://www.baidu.com/img/bdlogo.gif)
+![](https://github.com/setruthek/win10-home-docker-/blob/main/images/result.jpg)
